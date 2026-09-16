@@ -1,11 +1,5 @@
 # Employee Management System
 
-## Task 1: Employee Management System
-
-**Level:** 2 (Intermediate)  
-**Language:** Java  
-**Concept:** Object-Oriented Programming (OOP)
-
 ## 📌 Project Overview
 
 The **Employee Management System** is a simple Java console application used to manage employee records.
@@ -64,15 +58,6 @@ Removes an employee from the employee list using their ID.
 ### 5. Exit
 Closes the program.
 
-## 📂 Project Structure
-
-```text
-EmployeeManagementSystem/
-│
-├── EmployeeManagementSystem.java
-└── README.md
-```
-
 ## ▶️ How to Run
 
 ### Step 1: Install Java
@@ -97,19 +82,6 @@ javac EmployeeManagementSystem.java
 
 ```bash
 java EmployeeManagementSystem
-```
-
-## 🖥️ Sample Menu
-
-```text
---- Employee Management ---
-1. Add Employee
-2. View Employees
-3. Update Employee
-4. Delete Employee
-5. Exit
-
-Enter choice:
 ```
 
 ## 📚 OOP Concepts Used
@@ -137,15 +109,3 @@ Read    → View Employees
 Update  → Update Employee
 Delete  → Delete Employee
 ```
-
-## ⚠️ Note
-
-This is a basic educational project. Employee data is stored **in memory**, so the records will be lost when the program is closed.
-
-## 👨‍💻 Author
-
-**Student Project – BCA**
-
-## ⭐ Conclusion
-
-This project demonstrates how Java and Object-Oriented Programming can be used to create a simple Employee Management System with CRUD functionality.
