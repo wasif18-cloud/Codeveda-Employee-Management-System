@@ -75,38 +75,9 @@ Employee information is grouped inside the `Employee` class.
 ### ArrayList
 `ArrayList<Employee>` is used to store multiple employee objects.
 
-## 🔄 CRUD Operations
-
-```text
-
-## ▶️ How to Run
-
-### Step 1: Install Java
-
-Make sure Java JDK is installed on your computer.
-
-Check the installation using:
-
-```bash
-java -version
-```
-
-### Step 2: Compile the Program
-
-Open Command Prompt or Terminal in the project folder and run:
-
-```bash
-javac EmployeeManagementSystem.java
-```
-
-### Step 3: Run the Program
-
-```bash
-java EmployeeManagementSystem
-```
+##java Employee Management System
 
 Create  → Add Employee
 Read    → View Employees
 Update  → Update Employee
 Delete  → Delete Employee
-```
