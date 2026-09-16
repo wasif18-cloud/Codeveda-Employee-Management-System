@@ -75,8 +75,7 @@ Employee information is grouped inside the `Employee` class.
 ### ArrayList
 `ArrayList<Employee>` is used to store multiple employee objects.
 
-##java Employee Management System
-
+### Employee Management System
 Create  → Add Employee
 Read    → View Employees
 Update  → Update Employee
