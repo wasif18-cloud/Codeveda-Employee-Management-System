@@ -58,6 +58,27 @@ Removes an employee from the employee list using their ID.
 ### 5. Exit
 Closes the program.
 
+## 📚 OOP Concepts Used
+
+### Class
+The `Employee` class represents an employee.
+
+### Object
+Each employee record is created as an object of the `Employee` class.
+
+### Constructor
+The constructor initializes employee details.
+
+### Encapsulation
+Employee information is grouped inside the `Employee` class.
+
+### ArrayList
+`ArrayList<Employee>` is used to store multiple employee objects.
+
+## 🔄 CRUD Operations
+
+```text
+
 ## ▶️ How to Run
 
 ### Step 1: Install Java
@@ -84,26 +105,6 @@ javac EmployeeManagementSystem.java
 java EmployeeManagementSystem
 ```
 
-## 📚 OOP Concepts Used
-
-### Class
-The `Employee` class represents an employee.
-
-### Object
-Each employee record is created as an object of the `Employee` class.
-
-### Constructor
-The constructor initializes employee details.
-
-### Encapsulation
-Employee information is grouped inside the `Employee` class.
-
-### ArrayList
-`ArrayList<Employee>` is used to store multiple employee objects.
-
-## 🔄 CRUD Operations
-
-```text
 Create  → Add Employee
 Read    → View Employees
 Update  → Update Employee
